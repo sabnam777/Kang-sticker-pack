@@ -1,0 +1,10 @@
+
+
+
+pyrogram
+pytgcalls
+megapy
+pillow
+youtube-dl
+pydub
+spotipy
